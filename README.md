@@ -83,7 +83,7 @@ npm start
 - 用户端：[Feuoy](https://github.com/Feuoy)
 - 管理端：[BlackXuuuuuu](https://github.com/BlackXuuuuuu)
 - 本项目：[seat_selection](https://github.com/Feuoy/seat_selection)
-- 原项目：[seat_selection](https://github.com/BlackXuuuuuu/seat_selection) (Private)
+- 原项目：[seat_selection(Private)](https://github.com/BlackXuuuuuu/seat_selection)
 
 ## 参考
 
