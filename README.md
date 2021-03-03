@@ -17,31 +17,31 @@
 
 #### 1.登录部分
 
-![](./doc/user1.PNG)
+![](./doc/user_1.PNG)
 #### 2.个人中心部分
 
-![](./doc/user2.PNG)
+![](./doc/user_2.PNG)
 #### 3.行政部分（1）
 
-![](./doc/user3.PNG)
+![](./doc/user_3.PNG)
 #### 4.行政部分（2）
 
-![](./doc/user4.PNG)
+![](./doc/user_4.PNG)
 
 ### 管理端
 
 #### 1.登录 & 选退历史
 
-![](./doc/admin1.PNG)
+![](./doc/admin_1.PNG)
 #### 2.学生管理 & 教室管理
 
-![](./doc/admin2.PNG)
+![](./doc/admin_2.PNG)
 #### 3.讲座管理（一）
 
-![](./doc/admin3.PNG)
+![](./doc/admin_3.PNG)
 #### 4,讲座管理（二）
 
-![](./doc/admin4.PNG)
+![](./doc/admin_4.PNG)
 
 ## 项目说明
 
