@@ -15,37 +15,39 @@
 
 ### 用户端
 
-#### 1.登录部分
+#### 登录
 
 ![](./doc/user_1.PNG)
-#### 2.个人中心部分
+
+#### 个人中心
 
 ![](./doc/user_2.PNG)
-#### 3.行政部分（1）
+
+#### 形政
 
 ![](./doc/user_3.PNG)
-#### 4.行政部分（2）
 
 ![](./doc/user_4.PNG)
 
 ### 管理端
 
-#### 1.登录 & 选退历史
+#### 登录 & 选退历史
 
 ![](./doc/admin_1.PNG)
-#### 2.学生管理 & 教室管理
+
+#### 学生管理 & 教室管理
 
 ![](./doc/admin_2.PNG)
-#### 3.讲座管理（一）
+
+#### 讲座管理
 
 ![](./doc/admin_3.PNG)
-#### 4,讲座管理（二）
 
 ![](./doc/admin_4.PNG)
 
 ## 说明
 
-### 1.目录结构
+### 目录结构
 
 ```bash
 ├── seat_selection_user 用户端页面项目文件
@@ -53,13 +55,13 @@
 ├── seat_selection_api 前后台接口文件
 ```
 
-### 2. 数据库
+### 数据库
 
 - 连接：./seat_selection_api/db/db.js
 - 数据：./seat_selection_api/db/db_structure.sql
 - 关系：![](./doc/db.PNG)
 
-### 3. 安装启动
+### 安装启动
 
 ```bash
 # 后端
@@ -80,8 +82,8 @@ npm start
 
 ## 成员
 
-- 用户端：[Feuoy](https://github.com/Feuoy)
-- 管理端：[BlackXuuuuuu](https://github.com/BlackXuuuuuu)
+- 用户端，[Feuoy](https://github.com/Feuoy)
+- 管理端，[BlackXuuuuuu](https://github.com/BlackXuuuuuu)
 
 ## 参考
 
