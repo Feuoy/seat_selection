@@ -80,10 +80,10 @@ npm install
 npm start
 ```
 
-## 成员
+## 代码
 
-- 用户端，[Feuoy](https://github.com/Feuoy)
-- 管理端，[BlackXuuuuuu](https://github.com/BlackXuuuuuu)
+- [Feuoy](https://github.com/Feuoy)
+- [BlackXuuuuuu](https://github.com/BlackXuuuuuu)
 
 ## 参考
 
