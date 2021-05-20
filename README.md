@@ -43,7 +43,7 @@
 
 ![](./doc/admin_4.PNG)
 
-## 项目说明
+## 说明
 
 ### 1.目录结构
 
@@ -78,12 +78,10 @@ npm install
 npm start
 ```
 
-## 项目成员
+## 成员
 
 - 用户端：[Feuoy](https://github.com/Feuoy)
 - 管理端：[BlackXuuuuuu](https://github.com/BlackXuuuuuu)
-- 本项目：[seat_selection](https://github.com/Feuoy/seat_selection)
-- 原项目：[seat_selection(Private)](https://github.com/BlackXuuuuuu/seat_selection)
 
 ## 参考
 
