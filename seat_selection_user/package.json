@@ -2,7 +2,7 @@
   "name": "seat_selection_user",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "feuoy <994551034@qq.com>",
+  "author": "feuoy",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
