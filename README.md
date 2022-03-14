@@ -10,6 +10,8 @@
 - 前端：Vue.js
 - 前端请求：Axios
 - 前端UI：Element-UI
+- 单页应用扩展：Vuex
+- 滚动场景插件：BetterScroll
 
 ## 效果预览
 
